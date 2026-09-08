@@ -1,21 +1,62 @@
-# Hi there, I'm Uchime Victor 👋
+# 👋 Hi there, I'm Uchime Victor
 
- **Backend Engineer with Cloud & DevOps Expertise | AWS | System Design**  
-⚡ *I build tools that make AWS costs visible, auditable, and optimizable.*
+**Backend Engineer** specializing in Python, Django, and Cloud Infrastructure  
+📍 Nigeria · 🌍 Open to remote · 💼 Available now
+
+🔗 [GitHub](https://github.com/uchime1234) · [LinkedIn](https://www.linkedin.com/in/uchime-victor-2b5b3131b/) · 📧 uchimevictor797@gmail.com · 🎥 [YouTube](https://youtube.com/@Buildanddeploywithvictor)
 
 ---
 
 ## 🧠 What I Do
 
-I am a Backend and a Devops Engineer with a passion for architecting the unseen logic that powers scalable applications. My expertise centers on the Django/Python ecosystem and PostgreSQL, where I design clean,   maintainable APIs and complex data models.  
+I'm a **Backend Engineer** with 4+ years of experience building production-grade RESTful APIs, ETL pipelines, and cloud-native applications using **Python**, **Django**, and **PostgreSQL**.
 
-My focus extends beyond the application layer to the broader system. I actively design for scale, thinking in terms of distributed systems principles—managing data consistency, service communication, and fault   tolerance. I leverage AWS to translate these designs into reality, building and deploying resilient infrastructure using services like EC2, RDS, S3, Lambda, SQS, and more.  
+I design clean, maintainable backend systems with a focus on:
+- ⚡ API performance optimization
+- 🗄️ Complex data modeling & query optimization
+- ☁️ Scalable cloud deployments on AWS
+- 🔒 Security-first architecture
 
-I thrive on the challenge of turning product requirements into elegant, efficient, and cloud-native backend systems.  
+Currently working at **Signal Labs (Canada)** where I maintain 99.9% uptime on backend infrastructure and mentor junior developers.
 
 ---
 
-## 🛠️ My Flagship Project
+## 💼 Experience
+
+### Backend Engineer | Signal Labs (Remote, Canada)
+*March 2025 – Present*
+
+- Designed and deployed 10+ RESTful APIs with Django, reducing response times by 20% via query optimization
+- Built ETL pipelines for cross-service data aggregation and transformation for business intelligence
+- Collaborated in a 4-person agile team on 2-week sprints with 95% code coverage
+- Maintained 99.9% uptime on backend infrastructure
+- 🔗 [thesignallabs.com](https://thesignallabs.com/)
+
+---
+
+### Full Stack Developer | Golden Lamp Leadership Initiative Africa (Remote, Nigeria)
+*June 2024 – March 2025*
+
+- Built a full stack React + Django website as the organization's primary digital platform
+- Designed RESTful APIs with Django REST Framework to power dynamic frontend features
+- Developed responsive frontend interfaces with React for seamless cross-device accessibility
+- Deployed on AWS with Cloudflare for DNS management and CDN acceleration
+- 🔗 [Live Demo](https://golden-lamp-leadership-initiative-a.vercel.app/) · [GitHub](https://github.com/uchime1234/Golden-LAMP-LEADERSHIP-INITIATIVE-AFRICA)
+
+---
+
+### Backend Developer Intern | Digital Dreams Academy (Onsite, Enugu, Nigeria)
+*October 2023 – April 2024*
+
+- Taught backend engineering concepts including Django to students learning digital skills
+- Developed RESTful APIs for student projects and internal academy tools
+- Guided students in building and deploying their first web applications
+- Mentored 30+ students in Django fundamentals; 12 deployed their first live apps within 3 months
+- 🔗 [GitHub](https://github.com/uchime1234/cloud-management-backend)
+
+---
+
+## 🛠️ Featured Projects
 
 ### 🔍 [CloudCost Auditor](https://github.com/uchime1234/full-stack-cloud-managment-tools)
 *Enterprise-grade AWS cost intelligence platform*
@@ -26,9 +67,39 @@ I thrive on the challenge of turning product requirements into elegant, efficien
 ✅ **Zero stored credentials** – STS assume-role only  
 ✅ **32% simulated cost reduction** in test accounts  
 
-> *“After 3 years of using AWS, CloudCost Auditor showed me 47 resources I forgot to delete.”*
+> *"After 3 years of using AWS, CloudCost Auditor showed me 47 resources I forgot to delete."*
 
-**Stack:** Python • Django • React • TypeScript • Docker
+**Stack:** Python · Django · React · TypeScript · Docker
+
+---
+
+### 🏥 [AI-Powered Healthcare Assistant](https://github.com/uchime1234/Ai-powered-health-care-assistant)
+*Intelligent healthcare backend with LLM integration*
+
+- Integrated Hugging Face models for medical query processing
+- Built RESTful APIs with Django REST Framework
+- Deployed on AWS with containerized architecture
+
+**Stack:** Python · Django · Hugging Face · AWS · Docker
+
+---
+### 🏛️ [Golden Lamp Leadership Initiative Africa](https://github.com/uchime1234/Golden-LAMP-LEADERSHIP-INITIATIVE-AFRICA)
+*Full Stack Digital Platform for Non-Profit Organization*
+
+Built during my time as a Full Stack Developer (June 2024 – March 2025), this platform serves as the organization's primary digital presence.
+
+✅ **React + Django** full stack architecture  
+✅ **RESTful APIs** powering dynamic frontend features  
+✅ **Responsive design** for seamless cross-device accessibility  
+✅ **AWS deployment** with Cloudflare CDN for global reach  
+✅ **Admin dashboard** for content management  
+
+> *"This platform helped the organization reach 500+ new community members in its first 3 months."*
+
+**Stack:** React · Django · DRF · PostgreSQL · AWS · Cloudflare
+
+🔗 [Live Demo](https://golden-lamp-leadership-initiative-a.vercel.app/) · [GitHub](https://github.com/uchime1234/Golden-LAMP-LEADERSHIP-INITIATIVE-AFRICA)
+**Stack:** Python · Django · DRF · PostgreSQL · AWS
 
 ---
 
@@ -43,6 +114,7 @@ languages:
 
 backend:
   - Django / DRF
+  - Flask
   - Node.js
   - PostgreSQL
   - Redis
@@ -52,28 +124,43 @@ frontend:
   - Tailwind CSS
   - Vite
 
-cloud:
-  - AWS (EC2, S3, RDS, Lambda, VPC, IAM, Cost Explorer)
+cloud & devops:
+  - AWS (EC2, RDS, S3, ECS, Lambda, API Gateway, SQS, Amplify, Cost Explorer)
   - Docker
-  - Terraform (learning)
+  - Terraform
+  - GitHub Actions
 
 tools:
   - Git/GitHub
-  - Linux/bash
+  - Linux / Bash
+  - AWS CLI
   - Postman
   - Figma
-```
+🎯 What I'm Looking For
+I'm actively seeking Backend Engineer roles where I can:
 
-🎯 What I'm Looking For  
-I'm actively seeking Cloud Engineering / DevOps / Full Stack roles where I can:
+✅ Build scalable APIs and backend systems with Python & Django
+✅ Optimize database performance and architecture
+✅ Design cloud-native applications on AWS
+✅ Bridge the gap between engineering and finance (FinOps)
+✅ Mentor and grow with a strong engineering team
 
-✅ Help teams reduce AWS waste and optimize cloud spend  
-✅ Build scalable full-stack systems with Python & React  
-✅ Bridge the gap between engineering and finance (FinOps)  
-✅ Contribute to open source and learn from senior engineers  
+I'm also open to Full Stack and Cloud/DevOps roles.
 
-📍 Based in Nigeria • 🌍 Open to remote • 💼 Available now  
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=uchime1234&show_icons=true&hide_title=true&hide=contribs
 
-📧 Email: uchimevictor797@gmail.com  
-🔗 linkdin: https://www.linkedin.com/in/uchime-victor-2b5b3131b/     
+📫 Let's Connect
+📧 Email: uchimevictor797@gmail.com
 
+🔗 LinkedIn: linkedin.com/in/uchime-victor-2b5b3131b/
+
+🐙 GitHub: github.com/uchime1234
+
+🎥 YouTube: @Buildanddeploywithvictor
+
+⭐ Feel free to reach out for collaborations, mentorship, or just a chat about backend engineering!
+
+text
+
+---
